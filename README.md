@@ -1,9 +1,16 @@
 <h1 align="center">Hi, I'm Nicholas</h1>
-<kbd>
-  <img src="image.png" width="50" height="50">
-</kbd>
+<p align="center">
+<img src="image 1.png" alt="Me!" style="width:25%; height:25%;">
+</p>
 <h3 align="center">A passionate software engineering student from Florida, United States.</h3>
-
-- I’m interested in improving my foundational skills as a senior software engineering major.
-- I’m looking to collaborate on bigger projects with a team to build upon my existing knowledge and create something meaningful.
-- Know about my experiences [LinkedIn](https://www.linkedin.com/in/nicholas-palceski/)
+<h2>
+</h2>
+<p>
+    - I’m interested in improving my foundational skills as a senior software engineering major.
+</p>
+<p>
+  - I’m looking to collaborate on bigger projects with a team to build upon my existing knowledge and create something meaningful.
+</p>
+<p>
+  - Know about my experiences <a href="https://www.linkedin.com/in/nicholas-palceski/">LinkedIn</a>
+</p>
