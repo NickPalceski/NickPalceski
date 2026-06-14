@@ -11,6 +11,3 @@
 <p>
   - I’m looking to collaborate on bigger projects with a team to build upon my existing knowledge and create something meaningful.
 </p>
-<p>
-  - Know about my experiences <a href="https://www.linkedin.com/in/nicholas-palceski/">LinkedIn</a>
-</p>
