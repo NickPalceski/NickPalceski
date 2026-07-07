@@ -6,8 +6,5 @@
 <h2>
 </h2>
 <p>
-    - I’m interested in improving my foundational skills as a software engineer.
-</p>
-<p>
-  - I’m looking to collaborate on bigger projects with a team to build upon my existing knowledge and create something meaningful.
+    - A lot of my experience in development involves building game server plugins and web applications, ranging from tech stacks around Java and Javascript.
 </p>
