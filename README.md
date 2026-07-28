@@ -12,5 +12,5 @@
     - Currently looking for full-time employment in software development roles across the country.
 </p>
 <p>
-    - Check out the current collaborative project I have been working on with like-minded developers! -> [PlexStats](https://plexstats.com/)
+    - Check out the current collaborative project I have been working on with like-minded developers! <a href="https://plexstats.com">PlexStats</a>
 </p>
