@@ -6,7 +6,7 @@
 <h2>
 </h2>
 <p>
-    - A lot of my experience in development involves building game server plugins and web applications, utlizing Java and Python as primary languages in the tech stack.
+    - A lot of my experience in development involves building game server plugins and web applications, utilizing Java and Python as primary languages in the tech stack.
 </p>
 <p>
     - Currently looking for full-time employment in software development roles across the country.
