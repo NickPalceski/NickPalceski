@@ -12,5 +12,5 @@
     - Currently looking for full-time employment in software development roles across the country.
 </p>
 <p>
-    - Check out the current collaborative project I have been working on with like-minded developers! <a href="https://plexstats.com">PlexStats</a>
+    - Take a look at my AWS deployed web application, <a href="https://tricklens.com">TrickLens</a>, which is a social app revolved around bringing the skateboard community together!
 </p>
